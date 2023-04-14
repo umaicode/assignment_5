@@ -18,5 +18,8 @@
     <ClCompile Include="Test_chap5_queueObject과제.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="testStudent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
